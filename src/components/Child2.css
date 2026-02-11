@@ -1,0 +1,13 @@
+.parent{
+    display: flex;
+    justify-content: space-around;
+}
+.child{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.img{
+    width: 200px;
+    height: 200px;
+}
